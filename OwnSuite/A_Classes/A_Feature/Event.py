@@ -29,7 +29,8 @@ def call_event(f):
 
 
 class Event():
-    '''Holds a list a functions/events that can be called at any time'''
+    '''Features Class
+    Holds a list a functions/events that can be called at any time'''
     __event_list=[]
     __event_auto=False
 

@@ -7,8 +7,12 @@ Please read the LICENCE file before making any use of the code below
 '''
 
 
-from DevTools.preppend_py_files_header import preppend_py_files_header
-preppend_py_files_header()
+import os, sys
+if os.path.abspath(os.path.dirname(__file__)) not in sys.path:
+    sys.path.append(os.path.abspath(os.path.dirname(__file__))) 
 
 
-if __name__ == '__main__':pass
+from A_Feature import *
+from B_Base import *
+from C_Holder import *
+from D_Functional import *

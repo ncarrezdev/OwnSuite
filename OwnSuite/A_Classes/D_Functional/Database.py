@@ -7,8 +7,4 @@ Please read the LICENCE file before making any use of the code below
 '''
 
 
-from DevTools.preppend_py_files_header import preppend_py_files_header
-preppend_py_files_header()
-
-
-if __name__ == '__main__':pass
+class Database():pass

@@ -6,9 +6,11 @@ The code in this repository is NOT free for use.
 Please read the LICENCE file before making any use of the code below
 '''
 
+def generateKey(length):
+    res = []
+    for i in range(length):
+        res.append()
+    return ''.join(res)
 
-from DevTools.preppend_py_files_header import preppend_py_files_header
-preppend_py_files_header()
 
-
-if __name__ == '__main__':pass
+class Encryption():pass

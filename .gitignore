@@ -1,2 +1,4 @@
 Other/**/*
 .vs/**/*
+**/__pycache__
+**/*main*

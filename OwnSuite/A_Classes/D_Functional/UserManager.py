@@ -7,3 +7,4 @@ Please read the LICENCE file before making any use of the code below
 '''
 
 
+class UserManager():pass

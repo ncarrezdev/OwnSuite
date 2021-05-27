@@ -1,0 +1,15 @@
+Dictionary :
+- ajouter support pour clefs -> attributs 
+
+Encryption :
+-> Asymetrique (Multi Utilisateurs)
+- Generation clef privee
+- Generation valeur partagee
+- Generation clef publique
+- Calcul + Sauvegarde clef partagee
+- Chiffrement avec clef partagee
+- Dechiffrement avec clef partagee
+-> Asymetrique XOR (Poste unique)
+- Generation clef privee
+- Chiffrement avec clef privee
+- Dechiffrement avec clef privee

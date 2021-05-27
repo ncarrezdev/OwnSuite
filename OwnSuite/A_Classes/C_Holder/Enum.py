@@ -7,3 +7,9 @@ Please read the LICENCE file before making any use of the code below
 '''
 
 
+from BaseEnum import *
+
+
+class Enum(BaseEnum):
+    '''Enum Holder Class
+    Holds an enum with selected features.'''

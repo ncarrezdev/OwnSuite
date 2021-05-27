@@ -10,10 +10,9 @@ Please read the LICENCE file before making any use of the code below
 def flatten_list(list_):
     if (type(list_) not in (list, tuple)):
         return (list_,)
-    elif (len(list_) == 0): 
+    if (len(list_) == 0): 
         return ()
-    else:
-        return flatten_list(list_[0]) + flatten_list(list_[1:])
+    return flatten_list(list_[0]) + flatten_list(list_[1:])
 
 def get_py_files_list(current_dir):
     import os

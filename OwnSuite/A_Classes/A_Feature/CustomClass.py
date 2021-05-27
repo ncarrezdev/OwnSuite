@@ -15,12 +15,13 @@ class CustomClass(type):
         Enable features from the features list
         
         :kwarg features: List of features to enable - list/tuple'''
+        import os
+        
         features_list = kwargs.get("features", [])
         if features_list ==  []:
             return super(CustomClass, cls).__call__(*args, **kwargs)
         
         features = tuple()
-        import os
         user_features = list(features_list)
         this_folder = os.path.abspath(os.path.dirname(__file__))
         available_features = []

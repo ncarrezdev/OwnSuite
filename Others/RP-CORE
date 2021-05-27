@@ -1,0 +1,368 @@
+Légende :
+----------------------------------------------------------------------
+C.O.R.E.
+Centre Organisé Relationnel Eveillé
+
+Protocoles : 
+EVEIL  -> 00.45.56.45.49.4C. -> 004.55.645.494.C (Boot) 
+CHECK  -> 00.67.48.45.43.4B. -> 006.74.845.494.C (System Check)
+REPORT -> 52.45.50.4F.52.54. -> 524.55.04F.525.4 (Rapport d'évolution)
+START  -> 00.53.54.41.52.54. -> 005.35.441.525.4 (Expérience Debutée)
+FINISH -> 46.49.4E.49.53.48. -> 464.94.E49.534.8 (Expérience Terminée)
+DICT   -> 00.00.41.49.43.54. -> 000.04.149.435.4 (Dictionnaire)
+CORRUP -> 43.4F.52.52.55.50. -> 434.F5.252.555.0 (Corruption)
+----------------------------------------------------------------------
+
+Forgelier recupere par van helsing apres guerre
+
+[...]
+...
+Protocole 004.55.645.494.C engagé !
+[-------------------/             ] 59%
+/!\ Corruption du systeme détecté !
+
+Protocole 006.74.845.494.C engagé ! 
+[------------\                    ] 33%
+Terminé !
+Résultats :
+Protocole 524.55.04F.525.4 déterioré
+Protocole 005.35.441.525.4 ajouté
+Protocole 464.94.E49.534.8 ajouté
+Système corrompu, Récupération engagée !
+[------------------------------|  ] 89%
+/!\ Récupération impossible !
+Tentative de démarrage !
+
+Protocole 005.35.441.525.4 engagé !
+[---------------------------|     ] 76%
+Terminé !
+-> Début de l'expérience
+-> Vérification des membres ...
+-> Vérification terminée, Ok !
+-> Vérification des sens ...
+-> Vérification terminée, Ok ! 
+-> Vérification des sentiments ...
+-> Vérification terminée, ERR ! 
+Système corrompu ! 
+Nettoyage de la mémoire,
+Utilisation des services par défaut !
+[------------------------         ] 63%
+Terminé !
+-> Vérification des sentiments ...
+-> Vérification terminée, Ok ! 
+-> Vérification des souvenirs ...
+-> Vérification terminée, ERR !
+Souvenirs trouvés ! 
+Nettoyage de la mémoire,
+Le service doit être vide avant le début de l'expérience !
+[--                               ] 03%
+Terminé !
+-> Début de l'expérience !
+-> Initialisation nom : 
+C.O.R.E.
+Centre 
+Organisé
+Relationnel 
+Eveillé
+-> Initialisation données standarts :
+Identifiant    : S/N 8679.4823.481
+Propriétaire   : Van Helsing Defense Force
+Créateur       : Fulmigati
+Laboratoire    : Fulmigati
+Referant       : Fulmigati
+Technicien     : Fulmigati
+Date Demarrage : +0.33s
+Revision       : +37.4j
+-> Début EVEIL !
+...
+-> Début TRANSMISSION_RAPPORTS ! 
+...
+-> Début DECOUVERTE !
+...
+-> Début SALUTATIONS ! 
+...
+[...]
+
+[...]
+J'ouvre les yeux, un être me dévisage : 
+- "Bonjour, je me nomme C.O.R.E. ! Ravi de vous rencontrer, j'espère que nous pourrons être amis."
+- "Euh... Bonjour Forgelier. J'suis Angradd Goldhorn. Ravi d'te rencontrer."
+Tiens, il me répond... Angradd Goldhorn, c'est noté.
+- "Excusez-moi, pourriez vous m'aider ? Je ne connais pas le signification du mot "amis", peut être
+le connaissez vous ?"
+- "Qu'est'que c'est qu'le mot ami ? Boarf... J'dirais qu'c'est pour r'presenter les gens en qui 
+t'as confiance tu vois ?"
+"Ami" = Personne en qui on a confiance... D'accord.
+- "Oh ! Oui, biensur ! Merci beaucoup pour votre aide. Peut-être pourriez vous également m'aider 
+avec le mot confiance s'il vous plait ?"
+- "Ohla ! T'm'as l'air bien cassé toi comme Forgelier... Tu d'vrais p't'être aller voir mon cousin, 
+à la forge, y d'vrais pouvoir t'arrager t'ça."
+Un cousin ? Une forge ? Qu'est ce que c'est ? 
+- "Biensur. Pouvez vous m'indiquez la voie à suivre s'il vous plait ?"
+- "Tiens, suis moi. -T'façon j'devais aller l'voir y m'doit des pièces c'ui la- C'est par la."
+Après quelques minutes, le Nain et moi nous retrouvons à la forge.
+- "Hey ! C'sin ! J'viens chercher mes pièces !"
+Une silhouette,  la moitié haute du corps dans un tube répond :
+- "Ho ! C'sin ! R'garde su'le comptoir... Bybig est v'nu m'payer 'jourd'hui !"
+- "Hehe" 
+D'un pas ravi et sautillant legerement, le Nain se pencha sur le comptoir et récupéra quelques 
+pièces : 
+- "A moi les pièces... *Tidididoudou* Tiens !Au fait ! J't'apporte du travail. Un Forgelier qu'a 
+b'soin d'une vue"
+- "Okay, laisse le donc dans un coin j'regard'rais t't a l'heure !"
+Le Nain Angradd se tourne vers moi et dit :
+- "Bon, mon gars, va t'poser par la, et puis attend sagement 'kay ?"
+- "Biensur ! Merci pour votre aide !"
+Je me déplace vers le comptoir en sautillant comme j'ai vu le Nain faire auparavant.
+C'est sans doute normal.
+- "*Tidididoudou*"
+Je m'assis sur le sol. Le Nain dubitatif mais ayant son argent ne se posa pas plus de questions et
+parti. Les minutes s'écoulèrent et je commence à m'ennuyer. Je trouve quelques ouvrages, et 
+commence à lire.
+- "Le 19 de Pharast : 3 pièces d'argent, crédit Bybig"
+Le tube répondit :
+- "Hey ! C'est mes comptes que tu lis la mon gars ! Lâches donc ça, va dans la bibliothèque par 
+la-bas !"
+Un bras sortit du tube et pointa une direction.
+- "Merci beaucoup, j'y vais de ce pas"
+Je sautille jusque l'endroit indiqué. L'être dans le tube se demandant ce qu'est ce boucan, sortit
+et me regarda.
+- "Dis... Qu'est'que qu'tu fais la ?"
+- "Je me déplace vers l'endroit que vous avez indiqué."
+- "Ouais j'vois ça, mais tu peux marche normalement." 
+- "Ah ?"
+Je reprend une démarche normale.
+- "Je pensais que vous vous déplaciez comme ca dans cet endroit. Désolé"
+- "Eh beh... Tu m'as l'air bien attaqué toi... Bon j'finis ca et j'm'occupe de ton cas."
+- "Biensur, merci."
+Je fini le trajet et arrive dans la bibliothèque. Un livre me saute aux yeux : "Fabriquez votre 
+Forgelier !". Je le prend et commence a le lire.
+[...]
+
+[...]
+...
+ERREUR ! Apprentissage interdit détecté ! 
+Blocage engagé !
+...
+[...]
+
+[...]
+Je jette le livre le plus loin possible de moi. 
+- "Erreur ! Erreur !"
+Le Nain sort du tube et accours vers moi. 
+- "Ohla ! Allez mon gars, calme toi, ca va aller !"
+Le Nain me prend la main. C'est rassurant que quelqu'un prenne ma main... Enregistré !
+- "Merci, ca va mieux."
+- "Bah alors ! Qu'est'qu'y t'es arrivé ?"
+- "Je n'en sais rien, j'ai trouvé un livre sur les Forgeliers, et..."
+- "Uhoh... Bon je vais m'occuper de toi tout d'suite, suis moi"
+- "Merci."
+Le Nain m'aide à me remettre debout et m'emmene à un chaise.
+- "'kay, bon... Qu'est ce qu'il t'arrive concretement ?"
+- "Hmm... Votre cousin m'a dit que j'était cassé après lui avoir demandé ce qu'est la confiance."
+- "Oulah ! Pas banal pour un Forgelier t'ça... Bon, ça doit être ton dictionnaire qui est
+défaillant"
+Le Nain farfouille dans des tirroirs et sort un tournevis qu'il commence a pointer sur mon torse.
+- "Bon, écoute moi bien mon gars, j'vais avoir besoin qu'tu t'laisses faire. Okay ?"
+- "Qu'est ce que vous allez faire ?" 
+- "J'vais avoir besoin de t'éteindre avant de vérifier l'état d'la puce dictionnaire qui s'trouve 
+en toi. Ca risque de piquer, mais s'te plait, n'bouge pas, souviens toi, que je ne vais que 
+t'réparer et c'est tout ! Il faut qu't'ais confiance en moi !"
+- "Oooh... C'est donc ça avoir confiance ? Très bien, je vous laisse faire."
+- "Merci mon gars, t'es courageux !"
+Le Nain approche le tournevis de mon torse, et commence a essayer d'enlever une plaque.
+- "Bon, la première plaque c'est t'jours la plus compliquée, le reste ça ira tout seul..."
+Un gros bruit de métal se fait entendre.
+- "Hop la ! Parfait ! Bah alors mon gars ? Ca va ?"
+- "-J'ai quand même un peu mal...-"
+J'essais de parler mais aucun son ne sort. Le Nain n'entendant rien continue son travail.
+- "Eh beh... C'est qu'c'est original ca... Pour sur... Bon, je vais pas pouvoir t'éteindre. 
+Je vais faire au plus vite et implenter le nouveau dictionnaire... Just... La ! Voila !"
+Un bruit sourd retenti dans ma tête.
+[...]
+
+[...]
+...
+Nouvelle pièce détecté ! 
+Mise en place du protocole de communication !
+[-----------\                     ] 33%
+Terminé ! 
+Récupération des données de la pièce !
+[-------------------------\       ] 87%
+Terminé !
+ERREUR ! Apprentissage interdit détecté ! 
+Blocage engagé ! 
+...
+[...]
+
+[...]
+D'un coup mon corps se met a bouger dans tous les sens. Le Nain paniqué, s'empresse de remettre
+la plaque manquante.
+- "Eh beh ! Je suis sorti juste à temps ! T'es une drôle d'bestiole toi !" 
+- "Erreur ! Erreur !"
+- "Euh... Pas normal ça... La pièce devrait être acceptée... C't'une pièce standart..."
+[...]
+
+[...]
+...
+ERREUR ! Ejection impossible !
+Intégration de la pièce au système, réécriture des données !
+...
+[...]
+
+[...]
+- "Reprise du système engagée !"
+Le Nain se demande se qu'il se passe.
+- "Eh beh... Ca a bien changé t'ça... En même temps quelle idée il a eu d'm'am'ner un modèle 
+récent..."
+- "Reprise terminée !"
+Je reprend possession de mon corps, et je peux enfin parler et agir normalement.
+- "Merci à vous, Nain. J'ai enfin récupéré un dictionnaire convenable."
+- "T'm'as bien fait peur. Bon restes ici c'te nuit, on sait jamais, j'préfère t'garder à l'oeil 
+au cas ou."
+- "Très bien. Je vous remercie de votre sollicitude."
+Le Nain se retourne et se dirige vers son comptoir.
+- "J'dois prév'nir ma moitié. -Encore une bonne nuit qui s'annonce tiens...-"
+[...]
+
+[...]
+...
+Réécriture terminée !
+Dictionnaire 000.04.149.435.4 enregistré !
+...
+[...]
+
+[...]
+Alors que la soirée avance, le Nain m'apprend son métier, tout en faisant connaissance.
+- "Donc, tu m'dis qu't'as ouvert les yeux. T'as vu mon c'sin et c'est tout s'dont tu t'souviens ?"
+- "Oui. Je n'ai aucun souvenirs antérieur à cette date."
+- "C'est vraiment b'zare. Qu'est ce qu'un Forgelier ferait tout seul, abandonné par terre...
+Passe moi la clef à côté du comptoir s'te plait. J'vais m'en servir pour ouvrir c'te partie et voir
+l'état d'la ch'minée."
+Je me dirige à côté du comptoir, récupère la dite clef et l'apporte au Nain.
+- "Merci ! Bon. Dis moi, t'as un nom ?"
+- "Mon nom est CORE : Centre Organisé Relationnel Eveillé. Et vous ?"
+- "Moi j'suis Tuvyld Kalgith. Un Nain, et un forgeron, mais j'suis aussi mécano à mes heures.
+Par contre CORE, y'm'semble qu'c'est l'nom d'ton modèle. Mais aucun vrai nom n't'a été donné."
+- "Enchanté Tuvyld. Vous voulez dire que je n'ai pas de nom ?"
+- "Bah... Y semblerait bien ouais. Mais c'est pas un problème hein ! Si ca t'va tu peux dire 
+qu'c'est ton nom. Ou alors, tu peux t'en choisir un."
+- "Qu'est ce que je devrais faire d'après vous ?"
+- "Pour moi l'mieux s'rait d'avoir un nom qui t'correspond."
+- "Je comprends... Dans ce cas peut-être vaudrait-il mieux que vous choisissiez. Mes connaissances 
+étant limitées, il vaudrait mieux que vous m'aidiez pour cette tache... Si vous êtes d'accord, 
+bien entendu."
+- "Lourde responsabilité qu'tu m'donnes la... Laisse moi réfléchir et je te donnerai ma réponse 
+d'ici d'main matin."
+- "Merci beaucoup. Vous m'aidez énormément, sans me connaitre. Je vous en suis vraiment 
+reconnaissant."
+- "C'est normal j'peux pas t'laisser tout seul dans c't état."
+Tuvyld, toujours la tête dans la cheminée, tout en me parlant, continue à travailler. Alors qu'il
+sert un écrou un sifflement se fait entendre.
+- "Uhoh..."
+- "Que ce passe-t-il ?"
+- "Ecoute moi bien, surtout, n'fais pas d'mouv'ment brusque ok ? Tu vas t'faire mal sinon."
+- "Comment ça ?"
+- "J'viens d'ouvrir la c'duite de vapeur sans faire gaffe. Elle va pas tarder à exploser."
+Tuvyld, sort sa tête de la cheminée et, calmement va chercher un immense filet en métal.
+- "Aide moi un peu t'veux bien ? J'ai b'soin qu'on enferme la ch'minée la d'dans pour retenir le 
+schrapnel."
+J'accours pour aider le forgeron, récupère un bout du filet, puis, ensemble, nous entourons la 
+cheminée a l'aide du filet.
+- "Okay... Bon ca devrait t'nir l'plus gros des morceaux, maint'nant, on va s'mettre derrière le 
+rideau histoire d'être à l'abris quand ça explos'ra."
+Le nain recule, pour recuperer le rideau. Alors qu'il marche, un bruit sourd retenti. La cheminée 
+explose. Instinctivement je me precipite sur Tuvyld, et l'enveloppe avec mon armure pour le
+protéger.
+- "Eh Bah ! Ca c'est d'la reactivité ! Tu vas bien mon gars ?"
+Une deuxième explosion se déploie depuis la cheminée, cette fois ci tout vole en morceaux. 
+On entend le filet capturer la plupart des schrapnels. Sauf que cette fois ci, un bruit de métal 
+déchirer se fais entendre, suivi d'un écoulement.
+- "Woooh ! J'l'avais pas vu v'nir celle-là... Heureusement qu't'étais là."
+Le Nain se retourne pour me regarder.
+- "Oh ! Ca va mon gars ?"
+J'essais de répondre a Tuvyld, mais je me sens bizarre.
+- "C-a v-v-va..."
+Etonné, Tuvyld courru dans mon dos.
+- "Eh beh ! Mon pauvre... Bon, ne bouge pas j'vais t'réparer t't ça."
+Le forgeron récupéra son matériel et s'empressa de se mettre au travail et de me réparer. 
+- "*Touss*"
+Le nain tousse encore et encore pendant qu'il me répare. 
+- "Mais... *Touss* Qu'est'qu'c'est qu'ça ? Jamais j'ai vu ca avant moi... Bon... *Touss* J'vais 
+essayer que'que chose."
+Des plicotis retentissent a mesure que le temps avance, comme si quelque chose etait en train de 
+couler.
+[...]
+
+[...]
+...
+Protocole 434.F5.252.555.0 engagé !
+[------|                          ] 20%
+Terminé !
+Début de la corruption environnementale
+Relevé des informations 
+Relevé des effets 
+...
+[...]
+
+[...]
+- "Bon...J'vais nettoyer ca, et ca d'vrait etre bon !"
+Tuvyld se releve, et va chercher un chiffon.
+- "C'est bon tu d'vrais être réparé maint'nant..."
+Je commence donc a me relever et m'approche de Tuvyld.
+- "Merci beaucoup Tuvyld, vous m'avez sauvé."
+Je lui tend la main pour le remercier. Mais je ressens une sensation étrange.
+- "Il y a pas d'quoi va ! Tu m'as sauvé aussi, c'est donnant donnant !"
+A ces mots, Tuvyld prend ma main.
+- "Hey !"
+Il retire brusquement sa main. Je regarde sa main, elle est rouge.
+- "Mais ! Qu'est qu'c'est ça ! T'es gelé ! Va t'mettre a cote du four pendant que j'nettoie."
+Je regarde ma main et constate qu'elle est couverte de glace, puis me dirige vers le four et 
+tend ma main pour la rechauffer. Je ne comprends pas ce qu'il c'est passé. Je ressens que la 
+sensation qui jusqu'alors était concentrée sur ma main, se met a se répandre dans tout mon corps.
+Après un moment le nain vient s'asseoir a côté de moi. 
+- "Bon, dis moi, t'as vraiment aucune idée de ce qu'il t'arrive pas vrai ?"
+- "Non. Aucune. Il me semble que mon corps se refroidis. Mais je n'ai aucune explication ou idée 
+de ce qu'il se passe."
+- "J'ai peut être une idée... J'dois avoir un bidule que'que part dans l'coin qui devrait m'permettre d'avoir plus d'informations sur toi. Quand tu s'ra réchauffé on verra c'qu'y c'passe. Ca t'va ?"
+- "Merci beaucoup pour votre aide Tuvyld."
+- "Normal, j'peux juste pas t'laisser partir dans c't'état, ca s'rait pas responsab'."
+[...]
+
+[...]
+...
+Fin du protocole 434.F5.252.555.0 !
+Protocole 524.55.04F.525.4 engagé !
+[---/                             ] 11%
+Terminé ! 
+Envoie des relevés de l'expérience
+...
+[...]
+
+[...]
+La sensation disparait petit à petit, et la glace sur mon corps disparait petit à petit.
+- "Je crois que c'est fini."
+- "Eh beh... Au boulot alors ! Installes toi sur l'siège. J'vais chercher l'matos."
+Je me dirige et m'installe dans le siège désigné par Tuvyld.
+- "Bon, du coup, j't'explique comment ça marche : j'vais brancher ça et ça au niveau de ton crâne 
+et l'autre en dessous de ta plaque sur ton torse."
+Le nain me désigne des électrodes, et commence a démonter la plaque située sur mon torse. 
+- "Ca va prendre toute la nuit, le temps d'avoir toutes les informations, du coup faudra pas qu'tu 
+bouges d'accord ?"
+J'acquiesce et le laisse faire. Après quelques minutes, les electrodes sont installées.
+- "Bien, maint'nant qu'tout est en place, on va pouvoir commencer. Ca risque de piquer quand 
+j'lanc'rais la machine, mais après ça d'vrait aller. Prêt ?"
+- "Oui."
+- "C'est parti alors !"
+Le nain démarre alors sa machine. Je ressens une douleur passer entre ma tête et mon torse, puis, 
+pu rien.
+[...]
+
+[...]
+...
+Demande d'informations reçue !
+Extraction des informations !
+...
+[...]
+
+[...]

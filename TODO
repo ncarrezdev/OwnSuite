@@ -1,3 +1,6 @@
+Object : 
+- ajouter fonctions toString() et fromString()
+
 Dictionary :
 - ajouter support pour clefs -> attributs 
 

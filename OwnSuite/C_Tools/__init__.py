@@ -12,8 +12,7 @@ if os.path.abspath(os.path.dirname(__file__)) not in sys.path:
     sys.path.append(os.path.abspath(os.path.dirname(__file__))) 
 
 
-from A_Utility import *
-from B_Feature import *
-from C_Base import *
-from D_Holder import *
-from E_Functional import *
+from get_entry import *
+from valid_str_not_empty import *
+from valid_str_to_float import *
+from valid_str_to_int import *

@@ -7,13 +7,7 @@ Please read the LICENCE file before making any use of the code below
 '''
 
 
-import os, sys
-if os.path.abspath(os.path.dirname(__file__)) not in sys.path:
-    sys.path.append(os.path.abspath(os.path.dirname(__file__))) 
+from Thread import *
 
 
-from A_Utility import *
-from B_Feature import *
-from C_Base import *
-from D_Holder import *
-from E_Functional import *
+class App(Thread):pass
